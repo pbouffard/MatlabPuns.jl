@@ -2,10 +2,32 @@ module MatlabPuns
 
 using LinearAlgebra
 
-export goodbeye, dimsum, linspacedout, flippingoutdim, dimsum, maximom
-export meanymom, cattleprod, allyall, anyone, bueller, fiendmax, fiendmin
-export xstreema, rapmeducedim, reduecedim, mapizzaslices, bort, accumulatte
-export crumbsum, crumpetprod, flipoutdim, sneeze, duff, snowflake
+export 
+	goodbeye,
+	dimsum,
+	linspacedout,
+	flippingoutdim,
+	dimsum,
+	maximom,
+	meanymom,
+	cattleprod,
+	allyall,
+	anyone,
+	bueller,
+	fiendmax,
+	fiendmin,
+	xstreema,
+	rapmeducedim,
+	reduecedim,
+	mapizzaslices,
+	bort,
+	accumulatte,
+	crumbsum,
+	crumpetprod,
+	flipoutdim,
+	sneeze,
+	duff,
+	snowflake
 
 # eye
 function goodbeye(m::Integer)
