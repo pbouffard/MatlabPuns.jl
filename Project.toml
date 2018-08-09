@@ -1,0 +1,8 @@
+name = "MatlabPuns"
+uuid = "884523b0-9b06-11e8-305f-dd6b667310da"
+authors = ["Patrick Bouffard <airpmb@fastmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
